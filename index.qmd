@@ -1,0 +1,53 @@
+---
+title: "Bienvenue chez Ginette"
+page-layout: full
+---
+
+## <a id="accueil"></a> Accueil
+
+
+::: {.columns}
+::: {.column width="65%"}
+
+Bienvenue sur le site de **Ginette Pissenlit**, jardinière urbaine passionnée, militante du compost joyeux et créatrice de potagers suspendus à base de cageots recyclés.
+
+🌱 Chaque balcon est un champ en puissance, chaque rebord de fenêtre une invitation au miracle de la photosynthèse !
+
+Sur ce site, vous découvrirez son activité, ses conseils botaniquement délurés, et comment la contacter pour égayer vos bacs à fleurs (ou vos réunions de copropriété).
+
+<div style="margin-top: 1em;">
+  <iframe src="https://www.crenolibre.fr/public/77240-didier_gambade" width="100%" height="200" frameborder="0" style="border:1px solid #ccc; border-radius: 8px;"></iframe>
+</div>
+
+:::
+
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="30%"}
+![Ginette Pissenlit, jardinière extraordinaire!](images/ginette.png)
+:::
+:::
+
+
+
+---
+
+## <a id="video"></a> Ma présentation en vidéo
+
+![](videos/presentation.mp4)
+
+---
+
+## <a id="biographie"></a> Biographie
+
+Ginette Pissenlit, ancienne professeure de sciences naturelles reconvertie en jardinière urbaine, a toujours eu la main verte et une passion inébranlable pour les plantes, les abeilles et les bottes en caoutchouc fleuries. Née dans un petit village entouré de champs et de forêts, elle a grandi en plantant des tomates avec sa grand-mère et en parlant aux capucines. Après vingt ans passés à enseigner la photosynthèse à des adolescents distraits, elle a eu une révélation en tombant nez à nez avec un pot de basilic fané sur le rebord d'une fenêtre parisienne : il était temps de redonner un peu de chlorophylle à la ville. C'est ainsi qu'est née **"Les Jardins de Ginette"**, une entreprise joyeusement militante dédiée à l'installation de potagers urbains, à l'animation d'ateliers de compostage et à la réconciliation entre béton et bourdons. Son rêve ? Que chaque balcon accueille un haricot, que chaque toit fleurisse et que chaque Parisien sache faire la différence entre un thym citron et une menthe poivrée.
+
+
+---
+## <a id="contact"></a> 📬 Contact
+
+
+👉 [Prendre rendez-vous sur Crenolibre](https://www.crenolibre.fr/public/ginettepissenlit)
+

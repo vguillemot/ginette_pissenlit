@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ginette Pissenlit"
+  navbar:
+    pinned: true
+    left:
+      - text: "Accueil"
+        href: "#accueil"
+      - text: "Présentation en vidéo"
+        href: "#video"
+      - text: "Biographie"
+        href: "#biographie"
+      - text: "Contact"
+        href: "#contact"
+    
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+    fontsize: 1.1em
+    linestretch: 1.6
+    max-width: 1200px
+
