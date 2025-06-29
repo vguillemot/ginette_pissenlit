@@ -15,8 +15,7 @@ website:
         href: "#biographie"
       - text: "Contact"
         href: "#contact"
-  footer: |
-    Ce site a été réalisé avec Quarto, assisté par ChatGPT, et illustré grâce à Canva.
+  page-footer: "Ce site a été réalisé avec Quarto, assisté par ChatGPT, et illustré grâce à Canva."
 
 
 format:
